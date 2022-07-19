@@ -14,6 +14,8 @@
 
 Tableau Dashboard Link has been provided below,
 
+https://public.tableau.com/app/profile/mathivathana.paramanthan/viz/Profit-Statewise/Dashboard1?publish=yes
+
 https://public.tableau.com/app/profile/mathivathana.paramanthan/viz/Profit-Regionwise/Profit-Yearwise?publish=yes
 
 https://public.tableau.com/app/profile/mathivathana.paramanthan/viz/Profit-Regionwise/Profit-Regionwise?publish=yes
