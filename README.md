@@ -1,21 +1,9 @@
-# Tableau-Data-Analysis-Sales-Insights
+# A well-known democracy and it's lesser known pages
 
-1)Our Appearance speaks before than us, it's not only in the case of humans but also in the case of human generated product (i.e) data :))
+• South Asian country India is the largest  democracy, the second-largest country by area,  and the second highly populated country in  the world.
+• Nation with greater diversity of languages,  religions, dance, music, cuisine, and architectural  styles.
+• Even if it holds the title of many respectable  things, there are some aspects that demand  quick attention, one of which being India's crime  rates.
+The number of crimes that occur among the  populace likewise grows as the population  expands.
+• Primary goal of this report is to compile  a report on the crime rates that have  occurred in India since the country entered  the twenty-first century for a period of 10  years (i.e.,) till 2010 by considering various underlying divisions such as victims , offenders and the causes .
 
-2)An organization may comprise of people working at several levels starting from the intern to the CEO.
-
-3)The technical background of people may also varies at each layer of stack.
-
-4)If we want our product to face growth at any cost, then we must be aware of what the customer doing with our product.Whether do they think the same way as we think about our product.
-
-5)By gathering all the data from the user end, a business people can come with various decisions either from changing the existing framework to implementing new features in the product as a future growth.
-
-6)In the attached Dashboard, with the dataset comprises of information about orders,sales and returns of the organization. Created a visualization with the sample dataset to get a detailed insight about the organization's sales and profit across several regions and across various years.
-
-Tableau Dashboard Link has been provided below,
-
-https://public.tableau.com/app/profile/mathivathana.paramanthan/viz/Profit-Statewise/Dashboard1?publish=yes
-
-https://public.tableau.com/app/profile/mathivathana.paramanthan/viz/Profit-Regionwise/Profit-Yearwise?publish=yes
-
-https://public.tableau.com/app/profile/mathivathana.paramanthan/viz/Profit-Regionwise/Profit-Regionwise?publish=yes
+(https://public.tableau.com/views/CS5346Ass2/MainDashboardJuvenile?:language=en-US&publish=yes&:display_count=n&:origin=viz_share_link)
